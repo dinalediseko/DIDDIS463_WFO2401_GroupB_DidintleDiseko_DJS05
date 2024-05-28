@@ -29,5 +29,3 @@ The code also includes a function `runScenarios()` to execute and test different
 1. **Understanding Redux Concepts**: Initially, understanding Redux concepts such as actions, reducers, and stores was challenging. I overcame this by studying documentation, tutorials, and example codes to gain a clear understanding.
 2. **Implementing the Store Class**: Implementing a simple store class to manage the state and handle action dispatching required careful consideration of state mutation and immutability. I addressed this challenge by thoroughly understanding how Redux manages state updates and applying similar principles in my implementation.
 3. **Testing Scenarios**: Ensuring that all scenarios were tested effectively without overlapping or conflicting actions required careful planning and execution. I addressed this challenge by designing clear test cases for each scenario and verifying the results through console logging.
-
-Overall, by breaking down the problem, studying relevant concepts, and iteratively testing and refining the code, I was able to overcome these challenges and implement an effective state management system for the Tally App.
